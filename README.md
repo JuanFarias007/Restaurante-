@@ -6,6 +6,6 @@ Este projeto consiste no desenvolvimento de um site para um restaurante italiano
 
 ## Tecnologias utilizadas
 
--HTML5: Responsável pela estruturação e organização do conteúdo das páginas.
--CSS3: Utilizado para a estilização e construção do layout do site.
--JavaScript: Responsável pela implementação de funcionalidades e interatividade.
+**HTML:** Responsável pela estruturação e organização do conteúdo das páginas.
+**CSS:** Utilizado para a estilização e construção do layout do site.
+**JavaScript:** Responsável pela implementação de funcionalidades e interatividade.
