@@ -11,3 +11,13 @@ Este projeto consiste no desenvolvimento de um site para um restaurante italiano
 **CSS:** Utilizado para a estilização e construção do layout do site.  
 
 **JavaScript:** Responsável pela implementação de funcionalidades e interatividade.
+
+## Equipe
+
+Bernardo Brasileiro;  
+
+Denilson Santos;  
+
+Juan Farias;  
+
+Márcia Vitória.
